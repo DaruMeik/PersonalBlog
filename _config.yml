@@ -8,4 +8,5 @@ title: DaruMeik's blog
 author: DaruMeik
 
 # Default config
+baseurl: "/PersonalBlog"
 permalink: none
