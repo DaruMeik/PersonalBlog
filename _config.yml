@@ -10,3 +10,10 @@ author: DaruMeik
 # Default config
 baseurl: "/PersonalBlog"
 permalink: none
+
+languages: ["en", "vi"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  vi: Vietnamese
+  en: English
