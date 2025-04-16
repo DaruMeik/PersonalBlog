@@ -1,0 +1,11 @@
+# Theme of the website, using dark mode
+theme: minima
+minima:
+  skin: dark
+  
+# Basic info
+title: DaruMeik's blog
+author: DaruMeik
+
+# Default config
+permalink: none
