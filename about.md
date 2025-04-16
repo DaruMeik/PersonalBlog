@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-permalink: /about
+permalink: /about/
 ---
 
 A little bit info about me:
