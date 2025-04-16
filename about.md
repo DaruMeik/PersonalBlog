@@ -1,10 +1,10 @@
 ---
-layout: post
-title: About me
-permalink: /about/
+layout: page
+title: pages.about
+
+namespace: about
+permalink: /about-me/
+permalink_vi: /about-me/
 ---
 
-A little bit info about me:
-- Something
-- Something else
-- Something else
+{% tf about.md %}
